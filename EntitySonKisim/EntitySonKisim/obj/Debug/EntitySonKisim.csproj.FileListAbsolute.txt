@@ -1,0 +1,15 @@
+C:\Users\firat\source\repos\EntitySonKisim\EntitySonKisim\bin\Debug\EntitySonKisim.exe.config
+C:\Users\firat\source\repos\EntitySonKisim\EntitySonKisim\bin\Debug\EntitySonKisim.exe
+C:\Users\firat\source\repos\EntitySonKisim\EntitySonKisim\bin\Debug\EntitySonKisim.pdb
+C:\Users\firat\source\repos\EntitySonKisim\EntitySonKisim\bin\Debug\EntityFramework.dll
+C:\Users\firat\source\repos\EntitySonKisim\EntitySonKisim\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\firat\source\repos\EntitySonKisim\EntitySonKisim\bin\Debug\EntityFramework.xml
+C:\Users\firat\source\repos\EntitySonKisim\EntitySonKisim\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\firat\source\repos\EntitySonKisim\EntitySonKisim\obj\Debug\EntitySonKisim.csprojAssemblyReference.cache
+C:\Users\firat\source\repos\EntitySonKisim\EntitySonKisim\obj\Debug\EntitySonKisim.Form1.resources
+C:\Users\firat\source\repos\EntitySonKisim\EntitySonKisim\obj\Debug\EntitySonKisim.Properties.Resources.resources
+C:\Users\firat\source\repos\EntitySonKisim\EntitySonKisim\obj\Debug\EntitySonKisim.csproj.GenerateResource.cache
+C:\Users\firat\source\repos\EntitySonKisim\EntitySonKisim\obj\Debug\EntitySonKisim.csproj.CoreCompileInputs.cache
+C:\Users\firat\source\repos\EntitySonKisim\EntitySonKisim\obj\Debug\EntitySonKisim.csproj.CopyComplete
+C:\Users\firat\source\repos\EntitySonKisim\EntitySonKisim\obj\Debug\EntitySonKisim.exe
+C:\Users\firat\source\repos\EntitySonKisim\EntitySonKisim\obj\Debug\EntitySonKisim.pdb

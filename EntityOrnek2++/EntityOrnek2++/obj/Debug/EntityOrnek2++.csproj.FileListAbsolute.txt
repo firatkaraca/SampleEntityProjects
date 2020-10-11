@@ -1,0 +1,15 @@
+C:\Users\firat\source\repos\EntityOrnek2++\EntityOrnek2++\obj\Debug\EntityOrnek2++.csprojAssemblyReference.cache
+C:\Users\firat\source\repos\EntityOrnek2++\EntityOrnek2++\obj\Debug\EntityOrnek2__.Form1.resources
+C:\Users\firat\source\repos\EntityOrnek2++\EntityOrnek2++\obj\Debug\EntityOrnek2__.Properties.Resources.resources
+C:\Users\firat\source\repos\EntityOrnek2++\EntityOrnek2++\obj\Debug\EntityOrnek2++.csproj.GenerateResource.cache
+C:\Users\firat\source\repos\EntityOrnek2++\EntityOrnek2++\obj\Debug\EntityOrnek2++.csproj.CoreCompileInputs.cache
+C:\Users\firat\source\repos\EntityOrnek2++\EntityOrnek2++\bin\Debug\EntityOrnek2++.exe.config
+C:\Users\firat\source\repos\EntityOrnek2++\EntityOrnek2++\bin\Debug\EntityOrnek2++.exe
+C:\Users\firat\source\repos\EntityOrnek2++\EntityOrnek2++\bin\Debug\EntityOrnek2++.pdb
+C:\Users\firat\source\repos\EntityOrnek2++\EntityOrnek2++\bin\Debug\EntityFramework.dll
+C:\Users\firat\source\repos\EntityOrnek2++\EntityOrnek2++\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\firat\source\repos\EntityOrnek2++\EntityOrnek2++\bin\Debug\EntityFramework.xml
+C:\Users\firat\source\repos\EntityOrnek2++\EntityOrnek2++\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\firat\source\repos\EntityOrnek2++\EntityOrnek2++\obj\Debug\EntityOrnek2++.csproj.CopyComplete
+C:\Users\firat\source\repos\EntityOrnek2++\EntityOrnek2++\obj\Debug\EntityOrnek2++.exe
+C:\Users\firat\source\repos\EntityOrnek2++\EntityOrnek2++\obj\Debug\EntityOrnek2++.pdb
